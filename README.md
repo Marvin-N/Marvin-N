@@ -17,16 +17,16 @@ I’m looking for help to better enhance my skills in cryptocurrency and web3 pr
 
 ## 💬 Ask Me About
 Feel free to ask me about:
-- Web development best practices \n
-JavaScript and TypeScript
-Full Stack development
-Solving coding challenges
+- Web development best practices
+- JavaScript and TypeScript
+- Full Stack development
+- Solving coding challenges
 
 ## 📫 How to Reach Me
 You can reach me via:
 
-LinkedIn: www.linkedin.com/in/marvin-ngalle-11685421b
-Email: marvinngalle34@gmail.com
+- LinkedIn: www.linkedin.com/in/marvin-ngalle-11685421b
+- Email: marvinngalle34@gmail.com
 ## ⚡ Fun Fact
 I once raced a cheetah in my dreams and won! 🏃‍♂️🐆
 
