@@ -17,8 +17,7 @@ I’m looking for help to better enhance my skills in cryptocurrency and web3 pr
 
 ## 💬 Ask Me About
 Feel free to ask me about:
-
-Web development best practices
+- Web development best practices \n
 JavaScript and TypeScript
 Full Stack development
 Solving coding challenges
