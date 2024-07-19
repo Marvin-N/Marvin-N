@@ -26,7 +26,24 @@ Solving coding challenges
 ## 📫 How to Reach Me
 You can reach me via:
 
-LinkedIn: Your LinkedIn Profile
+LinkedIn: www.linkedin.com/in/marvin-ngalle-11685421b
 Email: marvinngalle34@gmail.com
-⚡ Fun Fact
+## ⚡ Fun Fact
 I once raced a cheetah in my dreams and won! 🏃‍♂️🐆
+
+
+<!--
+**Marvin-N/Marvin-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
